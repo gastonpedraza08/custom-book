@@ -1,5 +1,6 @@
 # You Don't Know JS (book series) - 1st Edition
 
+This is just a draft of me. You can visit the official website [here](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed)
 
 ----
 ----
